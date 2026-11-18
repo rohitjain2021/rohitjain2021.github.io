@@ -1,4 +1,4 @@
-# Rohit Jain ? Personal Portfolio
+# Personal Portfolio
 
 A responsive portfolio covering cloud engineering, DevOps, security, AI projects, AWS certifications, and reviewing and judging work.
 
